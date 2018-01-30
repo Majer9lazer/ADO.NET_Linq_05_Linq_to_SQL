@@ -37,7 +37,7 @@ namespace ADO.NET_Linq_05_LINQ_to_SQL
 
 
 
-            \
+            
 
         }
         static void Example_02()
